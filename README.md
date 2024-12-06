@@ -9,3 +9,5 @@ pip install -r requirements.txt
 ## Run Streamlit app
 ```bash
 streamlit run dashboard.py
+```
+![Alt Text](C:\Users\n9nrc\OneDrive\Pictures\Screenshots\2024-12-06 234506.png)
