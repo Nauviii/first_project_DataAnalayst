@@ -1,4 +1,4 @@
-# Dicoding Collection Dashboard ✨
+# Bike Sharing Analyst
 
 ## Setup Environment - Anaconda
 ```bash
